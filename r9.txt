@@ -1,1 +1,3 @@
 hostname R9
+interface 
+inf
